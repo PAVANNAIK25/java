@@ -137,7 +137,7 @@ public class Graph {
 		ArrayList<Integer> output = getPathBFS(adjMatrix, source, destination);
 		 
 		for(int i=0; i<output.size();i++){
-			System.out.print(i +" ");
+			System.out.print(i +"");
 		}
 
 	}
