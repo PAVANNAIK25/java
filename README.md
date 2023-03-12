@@ -1,2 +1,2 @@
 # Java
-This are the DSA Impelementation codes
+These are the DSA Impelementation codes
